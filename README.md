@@ -82,7 +82,8 @@ Build a production-inspired AWS lab where:
 >
 > `Evidence/architecture-diagram.png`
 
-<img width="1200" alt="Architecture Diagram" src="./Evidence/architecture-diagram.png" />
+<img width="3469" height="1960" alt="architecture-diagram" src="https://github.com/user-attachments/assets/76219c36-f149-4ae5-aed7-263636aeb4d2" />
+
 
 ---
 
